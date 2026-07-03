@@ -8,7 +8,7 @@ export function SiteFooter() {
       <div className="container-x py-16 grid gap-12 md:grid-cols-4">
         <div className="md:col-span-2">
           <div className="flex items-center gap-3">
-            <img src={https://id-preview--e7bbccc9-24bb-4ff2-be49-cd625be37931.lovable.app/__l5e/assets-v1/5590aeb2-15ad-4fff-aabd-5e276b9d97d4/spire-mark.png} alt="" width={44} height={44} className="h-11 w-11" />
+            <img src={logoAsset.url} alt="" width={44} height={44} className="h-11 w-11" />
             <div>
               <div className="text-white font-bold text-lg tracking-tight">Spire Proposals</div>
               <div className="text-xs uppercase tracking-[0.18em] text-gold">Proposals · Presentations · Solutions</div>
