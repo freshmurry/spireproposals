@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spireproposals.lovable.app/sitemap.xml

@@ -1,0 +1,17 @@
+# Spire Proposals
+
+> Proposal, presentation, and capture strategy consulting for small businesses pursuing federal and municipal contracts.
+
+Spire Proposals helps government contractors win more work through end-to-end proposal management, short-list interview coaching, and business-development strategy. Services include pre-solicitation opportunity identification, RFP response management, Color Team reviews, presentation storytelling and coaching, capture planning, and staff training.
+
+## Pages
+
+- [Home](/): Overview of Spire Proposals' services and approach.
+- [About](/about): Who we are, our clients, and testimonials from federal contractors.
+- [Services](/services): Proposals, Presentations, and Solutions — full service catalog.
+- [Contact](/contact): Get in touch to discuss an upcoming pursuit.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
