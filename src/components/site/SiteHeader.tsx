@@ -33,7 +33,7 @@ export function SiteHeader() {
     >
       <div className="container-x flex items-center justify-between h-16 md:h-20">
         <Link to="/" className="flex items-center gap-3" aria-label="Spire Proposals home">
-          <img src={logoAsset.url} alt="Spire Proposals" width={40} height={40} className="h-10 w-10" />
+          <img src={https://id-preview--e7bbccc9-24bb-4ff2-be49-cd625be37931.lovable.app/__l5e/assets-v1/5590aeb2-15ad-4fff-aabd-5e276b9d97d4/spire-mark.png} alt="Spire Proposals" width={40} height={40} className="h-10 w-10" />
           <span className={`font-bold tracking-tight text-lg ${scrolled || open ? "text-navy" : "text-white"}`}>
             Spire <span className="font-normal opacity-80">Proposals</span>
           </span>
