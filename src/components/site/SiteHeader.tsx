@@ -1,6 +1,6 @@
 import { Link, useRouterState } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
-import { BrandMark } from "./BrandMark";
+import logoAsset from "@/assets/spire-mark.png.asset.json";
 
 const NAV = [
   { to: "/", label: "Home" },
@@ -33,7 +33,7 @@ export function SiteHeader() {
     >
       <div className="container-x flex items-center justify-between h-16 md:h-20">
         <Link to="/" className="flex items-center gap-3" aria-label="Spire Proposals home">
-          <BrandMark width={40} height={40} className="h-10 w-10" />
+          <img src={logoAsset.url} alt="Spire Proposals" width={40} height={40} className="h-10 w-10" />
           <span className={`font-bold tracking-tight text-lg ${scrolled || open ? "text-navy" : "text-white"}`}>
             Spire <span className="font-normal opacity-80">Proposals</span>
           </span>

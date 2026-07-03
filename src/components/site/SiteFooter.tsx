@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import { BrandMark } from "./BrandMark";
+import logoAsset from "@/assets/spire-mark.png.asset.json";
 
 export function SiteFooter() {
   const year = new Date().getFullYear();
@@ -8,7 +8,7 @@ export function SiteFooter() {
       <div className="container-x py-16 grid gap-12 md:grid-cols-4">
         <div className="md:col-span-2">
           <div className="flex items-center gap-3">
-            <BrandMark width={44} height={44} className="h-11 w-11" />
+            <img src={logoAsset.url} alt="" width={44} height={44} className="h-11 w-11" />
             <div>
               <div className="text-white font-bold text-lg tracking-tight">Spire Proposals</div>
               <div className="text-xs uppercase tracking-[0.18em] text-gold">Proposals · Presentations · Solutions</div>
