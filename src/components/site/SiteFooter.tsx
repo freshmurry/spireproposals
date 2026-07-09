@@ -46,6 +46,7 @@ export function SiteFooter() {
       <div className="border-t border-white/10">
         <div className="container-x py-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-3 text-xs text-white/60">
           <div>© {year} Spire Proposals. All rights reserved.</div>
+          <div>Wesite Designed By <a herf="https://murryconsultancy.com" target="_blank"></>Murry Consultancy, LLC</a></div>
           <div>If it's worth doing, it's worth doing right.</div>
         </div>
       </div>
