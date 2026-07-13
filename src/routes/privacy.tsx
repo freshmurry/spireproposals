@@ -9,9 +9,9 @@ export const Route = createFileRoute("/privacy")({
       { name: "description", content: "How Spire Proposals collects, uses, and protects your information." },
       { property: "og:title", content: "Privacy Policy — Spire Proposals" },
       { property: "og:description", content: "How Spire Proposals collects, uses, and protects your information." },
-      { property: "og:url", content: "https://spireproposals.lovable.app/privacy" },
+      { property: "og:url", content: "https://spireproposals.com/privacy" },
     ],
-    links: [{ rel: "canonical", href: "https://spireproposals.lovable.app/privacy" }],
+    links: [{ rel: "canonical", href: "https://spireproposals.com/privacy" }],
   }),
   component: PrivacyPage,
 });

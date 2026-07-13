@@ -1,11 +1,5 @@
 {
-  "version": 1,
-  "asset_id": "5590aeb2-15ad-4fff-aabd-5e276b9d97d4",
-  "project_id": "e7bbccc9-24bb-4ff2-be49-cd625be37931",
-  "url": "https://id-preview--e7bbccc9-24bb-4ff2-be49-cd625be37931.lovable.app/__l5e/assets-v1/5590aeb2-15ad-4fff-aabd-5e276b9d97d4/spire-mark.png",
-  "r2_key": "a/v1/e7bbccc9-24bb-4ff2-be49-cd625be37931/5590aeb2-15ad-4fff-aabd-5e276b9d97d4/spire-mark.png",
+  "url": "/spire-mark.png",
   "original_filename": "spire-mark.png",
-  "size": 2171,
-  "content_type": "image/png",
-  "created_at": "2026-06-30T20:21:27Z"
+  "content_type": "image/png"
 }

@@ -9,9 +9,9 @@ export const Route = createFileRoute("/terms")({
       { name: "description", content: "The terms governing your use of the Spire Proposals website and services." },
       { property: "og:title", content: "Terms of Service — Spire Proposals" },
       { property: "og:description", content: "The terms governing your use of the Spire Proposals website and services." },
-      { property: "og:url", content: "https://spireproposals.lovable.app/terms" },
+      { property: "og:url", content: "https://spireproposals.com/terms" },
     ],
-    links: [{ rel: "canonical", href: "https://spireproposals.lovable.app/terms" }],
+    links: [{ rel: "canonical", href: "https://spireproposals.com/terms" }],
   }),
   component: TermsPage,
 });

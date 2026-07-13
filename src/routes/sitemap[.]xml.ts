@@ -3,7 +3,7 @@ import type {} from "@tanstack/react-start";
 
 // Absolute URLs required — relative <loc> values are ignored by crawlers.
 // Override at runtime by setting SITE_URL in the Cloudflare Worker.
-const BASE_URL = (process.env.SITE_URL ?? "https://spireproposals.lovable.app").replace(/\/$/, "");
+const BASE_URL = (process.env.SITE_URL ?? "https://spireproposals.com").replace(/\/$/, "");
 
 interface SitemapEntry {
   path: string;
